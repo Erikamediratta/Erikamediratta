@@ -1,4 +1,4 @@
-# Hi, I'm Erika Mediratta 👋
+# Hi, I'm Erika Mediratta 
 
 ### Data Scientist · AI / ML · NLP & LLMs · Python
 
